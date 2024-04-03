@@ -1,0 +1,579 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/altera/15.0
+vAdder1
+Z0 !s110 1541397565
+!i10b 1
+!s100 jNK^]<bWISf?i4a69Qae]0
+IG?BG=feeP4;NI4CbfP6Gl2
+Z1 V`JN@9S9cnhjKRR_L]QIcM3
+Z2 dC:/Users/cshan/Desktop/lab 8
+Z3 w1540785836
+Z4 8C:/Users/cshan/Desktop/lab 8/alu.v
+Z5 FC:/Users/cshan/Desktop/lab 8/alu.v
+L0 35
+Z6 OV;L;10.3d;59
+r1
+!s85 0
+31
+Z7 !s108 1541397565.513000
+Z8 !s107 C:/Users/cshan/Desktop/lab 8/alu.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/alu.v|
+!i113 1
+Z10 o-work work
+n@adder1
+vAddSub
+R0
+!i10b 1
+!s100 9`WbLzoQT3[1Pamzna9?b3
+I75750RXDU2[@S2XNE5NZg2
+R1
+R2
+R3
+R4
+R5
+L0 19
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@add@sub
+vALU
+R0
+!i10b 1
+!s100 GE02dCOBI<2E@f@oQ^]DH0
+I>_[:8=W6_9SW>BWEHC3@=0
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+n@a@l@u
+vcontroller
+R0
+!i10b 1
+!s100 [j9nn2]7Fg0bcY_3>dX]^3
+Io5^lLC^AXQ_k>Cg]`[e`R2
+R1
+R2
+w1540854468
+8C:/Users/cshan/Desktop/lab 8/controller.v
+FC:/Users/cshan/Desktop/lab 8/controller.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397565.576000
+!s107 C:/Users/cshan/Desktop/lab 8/controller.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/controller.v|
+!i113 1
+R10
+vcpu
+R0
+!i10b 1
+!s100 TF5EMoBBm_ee>kYNZR1^]2
+IS;V?PLHe8A84d?1on<ehQ1
+R1
+R2
+w1540865185
+8C:/Users/cshan/Desktop/lab 8/cpu.v
+FC:/Users/cshan/Desktop/lab 8/cpu.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397565.623000
+!s107 C:/Users/cshan/Desktop/lab 8/cpu.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/cpu.v|
+!i113 1
+R10
+vdata_address
+R0
+!i10b 1
+!s100 zEPHBjCkJ:Q3I>_INQ7l20
+IF;`EO`LAjXQ6GIOdm9KOI2
+R1
+R2
+w1540864802
+8C:/Users/cshan/Desktop/lab 8/data_address.v
+FC:/Users/cshan/Desktop/lab 8/data_address.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397565.669000
+!s107 C:/Users/cshan/Desktop/lab 8/data_address.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/data_address.v|
+!i113 1
+R10
+vdatapath
+R0
+!i10b 1
+!s100 YJ_V=?f6?FW^B?lO]U;G42
+IS9J]VD7J?fmE_NQMbZIdg2
+R1
+R2
+w1540254307
+8C:/Users/cshan/Desktop/lab 8/datapath.v
+FC:/Users/cshan/Desktop/lab 8/datapath.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397565.732000
+!s107 C:/Users/cshan/Desktop/lab 8/datapath.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/datapath.v|
+!i113 1
+R10
+vDec
+R0
+!i10b 1
+!s100 9HDff^4eiVE6oHV@JOSib0
+I[U6@R5N[^Ul4gCF=Y=[dd3
+R1
+R2
+Z11 w1540850052
+Z12 8C:/Users/cshan/Desktop/lab 8/generic_modules.v
+Z13 FC:/Users/cshan/Desktop/lab 8/generic_modules.v
+L0 1
+R6
+r1
+!s85 0
+31
+Z14 !s108 1541397565.779000
+Z15 !s107 C:/Users/cshan/Desktop/lab 8/generic_modules.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/generic_modules.v|
+!i113 1
+R10
+n@dec
+vdetermine_dout
+R0
+!i10b 1
+!s100 DCEbBo2en7b[1@HmJWZLW1
+IMXFloiEk9@WLLVWWP9`cZ1
+R1
+R2
+Z17 w1541397138
+Z18 8C:/Users/cshan/Desktop/lab 8/lab7_top.v
+Z19 FC:/Users/cshan/Desktop/lab 8/lab7_top.v
+L0 143
+R6
+r1
+!s85 0
+31
+Z20 !s108 1541397565.982000
+Z21 !s107 C:/Users/cshan/Desktop/lab 8/lab7_top.v|
+Z22 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/lab7_top.v|
+!i113 1
+R10
+vdetermine_LED
+Z23 !s110 1541397566
+!i10b 1
+!s100 K?:k1ml6Ugk]nnIKd[Z3J0
+I:Z;j1H2S_9H[3^8J=2TWn2
+R1
+R2
+R17
+R18
+R19
+L0 169
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+ndetermine_@l@e@d
+vdetermine_switches
+R23
+!i10b 1
+!s100 Q4_=hk_]5LjeF;<C2UjXY3
+I9GfgA1cUCnToVma^g1E=T0
+R1
+R2
+R17
+R18
+R19
+L0 156
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+vdetermine_write
+R0
+!i10b 1
+!s100 =C?zNTY@D`OLjo]ciRNK;3
+IHoSPT4AnL7_1U]gMmN<Z>1
+R1
+R2
+R17
+R18
+R19
+L0 135
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+vinstruction_decoder
+R0
+!i10b 1
+!s100 Y1m;HOnK`Qa7lheHh:h310
+Ij=YD6IAkZHniI;AMNYjJ;3
+R1
+R2
+w1540260475
+8C:/Users/cshan/Desktop/lab 8/instruction_decoder.v
+FC:/Users/cshan/Desktop/lab 8/instruction_decoder.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397565.841000
+!s107 C:/Users/cshan/Desktop/lab 8/instruction_decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/instruction_decoder.v|
+!i113 1
+R10
+vinstruction_register
+R0
+!i10b 1
+!s100 d[K50l>FCoSbjUnocdNF;1
+IkP6=273QR4<31TG_e4PER3
+R1
+R2
+w1540179907
+8C:/Users/cshan/Desktop/lab 8/instruction_register.v
+FC:/Users/cshan/Desktop/lab 8/instruction_register.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397565.888000
+!s107 C:/Users/cshan/Desktop/lab 8/instruction_register.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/instruction_register.v|
+!i113 1
+R10
+vlab7_check_tb
+R0
+!i10b 1
+!s100 <ZQ935<B_P<;03N>ML7gI1
+I;I4IbamEj;?OW<3=ABKTl2
+R1
+R2
+w1540865375
+8C:/Users/cshan/Desktop/lab 8/lab7_autograder_check.v
+FC:/Users/cshan/Desktop/lab 8/lab7_autograder_check.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397565.935000
+!s107 C:/Users/cshan/Desktop/lab 8/lab7_autograder_check.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/lab7_autograder_check.v|
+!i113 1
+R10
+vlab7_top
+R0
+!i10b 1
+!s100 LOoECP`kmC`;@^FRAAKnZ1
+I<<U_H^K8g8:?[WQ?keac^0
+R1
+R2
+R17
+R18
+R19
+L0 5
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+vMux3
+R0
+!i10b 1
+!s100 iCQV4hH@8>dQD6^]khd922
+Ia@1lh7AeF<=6aFaHakajZ0
+R1
+R2
+R11
+R12
+R13
+L0 52
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+n@mux3
+vMux4
+R0
+!i10b 1
+!s100 EjozzSfiVjm^kKl]lff_I1
+I[9CHlGMMeemllajnG84IZ3
+R1
+R2
+R11
+R12
+R13
+L0 41
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+n@mux4
+vMux8
+R0
+!i10b 1
+!s100 AVIcIOQDI8EBHkhW14IFI2
+Ib=`I=bDF8B0ZoUABUELFU1
+R1
+R2
+R11
+R12
+R13
+L0 25
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+n@mux8
+vprogram_counter
+R23
+!i10b 1
+!s100 =]cXn^6m=zH6ZYIL;oYX=3
+IY7fQ=NLH0f7H]9bhaIlG?2
+R1
+R2
+w1540864903
+8C:/Users/cshan/Desktop/lab 8/program_counter.v
+FC:/Users/cshan/Desktop/lab 8/program_counter.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397566.044000
+!s107 C:/Users/cshan/Desktop/lab 8/program_counter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/program_counter.v|
+!i113 1
+R10
+vram
+R23
+!i10b 1
+!s100 Tid`:9A^]P?m<n^CC=]RV3
+IHYi@9QVTcYkbz9Q>D4eDG1
+R1
+R2
+w1541396886
+8C:/Users/cshan/Desktop/lab 8/ram.v
+FC:/Users/cshan/Desktop/lab 8/ram.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397566.107000
+!s107 C:/Users/cshan/Desktop/lab 8/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/ram.v|
+!i113 1
+R10
+vregfile
+R23
+!i10b 1
+!s100 RVggJPl`4ohFdaIKMR;db2
+I44a1emin5kXALE_abd[5o0
+R1
+R2
+w1540168985
+8C:/Users/cshan/Desktop/lab 8/regfile.v
+FC:/Users/cshan/Desktop/lab 8/regfile.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397566.154000
+!s107 C:/Users/cshan/Desktop/lab 8/regfile.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/regfile.v|
+!i113 1
+R10
+vregister
+R0
+!i10b 1
+!s100 fI:AM]nIRDZNLi6AM>0<W2
+I5=QWfR=B^k4YH2A2QNJ9W3
+R1
+R2
+R11
+R12
+R13
+L0 11
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vshifter
+R23
+!i10b 1
+!s100 B>^0Bi6YKQn9zelkADXRK3
+IC>@D9DC39dL`RAYNg4PJU2
+R1
+R2
+w1540058532
+8C:/Users/cshan/Desktop/lab 8/shifter.v
+FC:/Users/cshan/Desktop/lab 8/shifter.v
+L0 1
+R6
+r1
+!s85 0
+31
+!s108 1541397566.201000
+!s107 C:/Users/cshan/Desktop/lab 8/shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/cshan/Desktop/lab 8/shifter.v|
+!i113 1
+R10
+vsignextend5
+R0
+!i10b 1
+!s100 g2N]8[IhGRoYP:QNBUhVl2
+I?V5NK=dJhFz9ZN31;E?z;2
+R1
+R2
+R11
+R12
+R13
+L0 62
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vsignextend8
+R0
+!i10b 1
+!s100 XN@K_`R>W1>`CVWlaaM672
+IP85B2DfV0@nTko:F<PMz:2
+R1
+R2
+R11
+R12
+R13
+L0 70
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+vsseg
+R0
+!i10b 1
+!s100 Ca7^h8We<`b`lLm]03Il52
+IB?;X>KJ_<fMjDOD<6dzEJ3
+R1
+R2
+R17
+R18
+R19
+L0 63
+R6
+r1
+!s85 0
+31
+R20
+R21
+R22
+!i113 1
+R10
+vvDFF
+R0
+!i10b 1
+!s100 bGG@]YGcZ_<W]RdLb:ljf1
+IA9fJ]M9T:1@^nGmX;g25i3
+R1
+R2
+R11
+R12
+R13
+L0 78
+R6
+r1
+!s85 0
+31
+R14
+R15
+R16
+!i113 1
+R10
+nv@d@f@f

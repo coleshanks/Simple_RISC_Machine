@@ -1,0 +1,120 @@
+{C:/Users/cshan/Desktop/lab 8/shifter.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/shifter.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module shifter
+
+Top level modules:
+	shifter
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/generic_modules.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/generic_modules.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module Dec
+-- Compiling module register
+-- Compiling module Mux8
+-- Compiling module Mux4
+-- Compiling module Mux3
+-- Compiling module signextend5
+-- Compiling module signextend8
+-- Compiling module vDFF
+
+Top level modules:
+	Dec
+	register
+	Mux8
+	Mux4
+	Mux3
+	signextend5
+	signextend8
+	vDFF
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/instruction_register.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/instruction_register.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module instruction_register
+
+Top level modules:
+	instruction_register
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/data_address.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/data_address.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module data_address
+
+Top level modules:
+	data_address
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/program_counter.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/program_counter.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module program_counter
+
+Top level modules:
+	program_counter
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/lab7_autograder_check.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/lab7_autograder_check.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lab7_check_tb
+
+Top level modules:
+	lab7_check_tb
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/alu.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/alu.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ALU
+-- Compiling module AddSub
+-- Compiling module Adder1
+
+Top level modules:
+	ALU
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/controller.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/controller.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/regfile.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/regfile.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module regfile
+
+Top level modules:
+	regfile
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/datapath.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/datapath.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/instruction_decoder.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/instruction_decoder.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module instruction_decoder
+
+Top level modules:
+	instruction_decoder
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/cpu.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/cpu.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module cpu
+
+Top level modules:
+	cpu
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/lab7_top.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/lab7_top.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module lab7_top
+-- Compiling module sseg
+-- Compiling module determine_write
+-- Compiling module determine_dout
+-- Compiling module determine_switches
+-- Compiling module determine_LED
+
+Top level modules:
+	lab7_top
+
+} {} {}} {C:/Users/cshan/Desktop/lab 8/ram.v} {1 {vlog -work work -stats=none {C:/Users/cshan/Desktop/lab 8/ram.v}
+Model Technology ModelSim ALTERA vlog 10.3d Compiler 2014.10 Oct  7 2014
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}}
